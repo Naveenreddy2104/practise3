@@ -19,8 +19,8 @@ public class StudentService {
 	@Autowired
 	private AdmissionRepositorty arepo;
 	
-//	@Autowired
-//	private StudentRepository srepo;
+	@Autowired
+	private StudentRepository srepo;
 	
 	@Autowired
 	private PaymentRepository prepo;
